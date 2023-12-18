@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+.qeliza {
+    height: 85px;
+    width: 80px;
+    border: 2px solid;
+    font-size: 50px;
+    cursor: pointer;
+}
+#mbajtesLoje {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+  
+}
+
+#mbajtesQelize {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 240px;
+    margin: auto;
+}
